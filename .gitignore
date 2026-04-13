@@ -1,0 +1,39 @@
+# Flutter/Dart specific
+
+# Misc
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Build outputs
+build/
+# Generated files
+*.g.dart
+*.freezed.dart
+*.pb.dart
+*.json
+
+# Android specific
+*.iml
+.gradle
+/local.properties
+/.idea/
+/captures/
+
+# iOS specific
+DerivedData/
+/Pods/
+/Runner.xcworkspace/
+/*.xcworkspace/
+/*.xcodeproj/
+/Runner/GeneratedPluginRegistrant.*
+
+# Web specific
+/index.html
+/web/manifest.json
+/web/assets
+
+# VS Code settings
+.vscode/
+# JetBrains IDE settings
+.idea/
